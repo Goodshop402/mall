@@ -11,9 +11,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%=user%>
+<%=user%><br>
 <%=pw%>
-
 <%=user%>님 환영 합니다.
 </body>
 </html>
