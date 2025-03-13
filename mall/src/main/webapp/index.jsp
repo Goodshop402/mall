@@ -13,5 +13,7 @@
 <body>
 <%=user%>
 <%=pw%>
+
+<%=user%>님 환영 합니다.
 </body>
 </html>
