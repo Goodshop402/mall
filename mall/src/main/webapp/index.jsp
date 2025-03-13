@@ -2,7 +2,6 @@
     pageEncoding="UTF-8"%>
 <%
 	String user = "테스트";
-
 %>
 <!DOCTYPE html>
 <html>
@@ -14,6 +13,3 @@
 <%=user%>
 </body>
 </html>
-
-
-
