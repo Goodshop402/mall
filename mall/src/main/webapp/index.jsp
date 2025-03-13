@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <%
 	String user = "테스트!!!";
-	
+	String pw = "aaa";
 %>
 <!DOCTYPE html>
 <html>
@@ -12,5 +12,6 @@
 </head>
 <body>
 <%=user%>
+<%=pw%>
 </body>
 </html>
